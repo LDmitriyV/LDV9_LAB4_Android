@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">LDV9_LAB4</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="name_program">Практическая работа №4</string>
+
+    <string name="resource_directory">file:///android_asset/HTML/</string>
+
+    <string name="action_settings">Выход</string>
+    <string name="view">Перейти к чтению…</string>
+    <string name="fullsizeFont">Большой шрифт</string>
+    <string name="bonus">Подборка</string>
+    <string name="lit">Литература</string>
+    <string name="autor">Лось Д.В</string>
+
+    <string name="additional">Магазины в РК</string>
+    <string name="error">Ошибка(</string>
+
+    <string name="technodom">https://www.technodom.kz/</string>
+    <string name="sulpak">https://www.sulpak.kz/</string>
+    <string name="whitewind">https://shop.kz/</string>
+    <string name="communicate">Обратная связь</string>
+    <string name="send_mail">Написать отзыв</string>
+
+    <string name="email">proffix4@gmail.com</string>
+    <string name="subject">Предложения по программе</string>
+    <string name="textmail">Здравствуйте !</string>
+    <string name="sending_letter">Посылка письма автору</string>
+    <string name="no_installed_email_client">Нет установленного почтового клиента</string>
+
+    <string name="search_hint">Поиск</string>
+    <string name="of">из</string>
+    <string name="not_found">увы…</string>
+
+    <string name="mysearch">ВКЛ. ПОИСК</string>
+
+</resources>

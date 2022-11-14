@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/mobilephones"
+            android:icon="@drawable/ic_menu_lecture"
+            android:title="@string/mobilephones" />
+        <item
+            android:id="@+id/smartphones"
+            android:icon="@drawable/ic_menu_lecture"
+            android:title="@string/smartphones" />
+
+    </group>
+
+    <item android:title="@string/bonus">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/buymobilephones"
+                    android:icon="@drawable/ic_view_list_black_24dp"
+                    android:title="@string/buymobilephones" />
+                <item
+                    android:id="@+id/buysmartphones"
+                    android:icon="@drawable/ic_view_list_black_24dp"
+                    android:title="@string/buysmartphones" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="@string/additional">
+        <menu>
+            <item
+                android:id="@+id/nav_view1"
+                android:icon="@drawable/ic_import_contacts_black_24dp"
+                android:title="@string/technodom" />
+            <item
+                android:id="@+id/nav_view2"
+                android:icon="@drawable/ic_import_contacts_black_24dp"
+                android:title="@string/sulpak" />
+            <item
+                android:id="@+id/nav_view3"
+                android:icon="@drawable/ic_import_contacts_black_24dp"
+                android:title="@string/whitewind" />
+        </menu>
+    </item>
+
+    <item android:title="@string/communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_drafts_black_24dp"
+                android:title="@string/send_mail" />
+        </menu>
+    </item>
+
+</menu>

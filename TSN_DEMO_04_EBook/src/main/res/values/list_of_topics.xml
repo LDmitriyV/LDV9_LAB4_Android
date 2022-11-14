@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="mobilephones">    Появление первых сотовых телефонов</string>
+    <string name="smartphones">    Эра смартфонов</string>
+    <string name="buymobilephones">    Подборка сотовых телофонов</string>
+    <string name="buysmartphones">    Подборка смартфонов</string>
+
+</resources>
