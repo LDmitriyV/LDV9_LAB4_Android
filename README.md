@@ -1,7 +1,7 @@
 # LDV9_LAB4_Android
 Электронная книга
 
-![Screenshot](screenshot1.jpg)
+![Screenshot](screenshot.jpg)
 
 ![Screenshot](screenshot2.jpg)
 
