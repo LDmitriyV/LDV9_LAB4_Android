@@ -3,5 +3,5 @@
 
 ![Screenshot](screenshot.png)
 
-![Screenshot](screenshot2.jpg)
+![Screenshot](screenshot1.jpg)
 
